@@ -26,3 +26,4 @@ output_path = r"C:\Users\HP\Downloads\Python CA ka Dataset.csv"  # Change to you
 df.to_csv(output_path, index=False)
 
 print("Cleaned dataset saved to:", output_path)
+
